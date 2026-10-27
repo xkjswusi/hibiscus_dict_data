@@ -30,4 +30,4 @@ Under CC BY-SA 4.0 you may share and adapt the dataset for any purpose, includin
 
 ## Privacy policy
 
-The app's privacy policy is [PRIVACY_POLICY.md](PRIVACY_POLICY.md), with a Korean translation in [PRIVACY_POLICY.ko.md](PRIVACY_POLICY.ko.md); the English text governs. The app bundles these same files and shows them offline. The policy gives the address for privacy questions.
+The app's privacy policy is [PRIVACY_POLICY.md](PRIVACY_POLICY.md), with translations in Korean ([PRIVACY_POLICY.ko.md](PRIVACY_POLICY.ko.md)), Simplified Chinese ([PRIVACY_POLICY.zh-Hans.md](PRIVACY_POLICY.zh-Hans.md)) and Traditional Chinese ([PRIVACY_POLICY.zh-Hant.md](PRIVACY_POLICY.zh-Hant.md)); the English text governs. The app bundles these same files and shows them offline. The policy gives the address for privacy questions.

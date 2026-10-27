@@ -65,6 +65,6 @@ The same local processing applies to all users. The app does not ask for age or 
 
 ## Changes and contact
 
-We will update this policy if the app's data practices change and revise the date above. You can read this policy within the app under Settings → Privacy policy or About → Privacy policy. A Korean translation is provided for convenience; if the two differ, this English text governs.
+We will update this policy if the app's data practices change and revise the date above. You can read this policy within the app under Settings → Privacy policy or About → Privacy policy. Korean, Simplified Chinese and Traditional Chinese translations are provided for convenience; if a translation differs from this English text, the English text governs.
 
 For privacy questions or requests, contact Adam Woeltz at coldscholarstudio@gmail.com.
