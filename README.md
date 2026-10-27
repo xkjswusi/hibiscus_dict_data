@@ -7,7 +7,7 @@ Hibiscus Korean Dictionary (槿花辭典 · 근화 사전) is an offline Korean 
 
 The app's dictionary is an adaptation of the four works listed below. It reformats, cleans and merges them into SQLite databases. The adapted data is licensed under the [Creative Commons Attribution-ShareAlike 4.0 International licence](LICENSE) (CC BY-SA 4.0).
 
-**Coming with version 1.** The dataset is not here yet. It will be published as a release asset of this repository with the app's first release: the base database and the five definition-language packs (Chinese, Japanese, Vietnamese, French and Spanish), each with its sha256. The files are built from that release, so they match the data the app ships.
+**Download it from the release [dataset-1](https://github.com/xkjswusi/hibiscus_dict_data/releases/tag/dataset-1).** It holds the base database and the five definition-language packs (Chinese, Japanese, Vietnamese, French and Spanish) as SQLite files compressed with gzip, with `SHA256SUMS`. Each file inflates to the database that Hibiscus 1.0.0 pins by its sha256, so the files match the data the app ships. The release notes list every sha256.
 
 ## Sources
 
@@ -16,7 +16,7 @@ The app's dictionary is an adaptation of the four works listed below. It reforma
 - **CC-KEDICT** by Masato Hagiwara and contributors, [github.com/mhagiwara/cc-kedict](https://github.com/mhagiwara/cc-kedict), licensed under [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/). TOPIK 1 vocabulary tags.
 - **Unihan Database** © Unicode, Inc., [unicode.org](https://www.unicode.org), under the [Unicode License v3](https://www.unicode.org/license.txt). English meanings and sounds for some Hanja characters.
 
-The app marks which source each entry's content comes from. The release will carry the full text of each source's licence, including the Unicode License v3's copyright and permission notice.
+The app marks which source each entry's content comes from. The release carries the full text of each source's licence, including the Unicode License v3's copyright and permission notice.
 
 ## Using the data
 
